@@ -12,14 +12,8 @@ Remove from Cart: Easily manage your choices by removing items from the cart.
 Order Placement: Complete your order by providing address details and placing the order.
 
 # Getting Started
-Clone the Repository:
-git clone https://github.com/your-username/ice-cream-store.git
-Install Dependencies:
-cd ice-cream-store
-npm install
-Set Up Firebase:
-Create a Firebase project (Realtime Database) and obtain your configuration details.
-Run the App:
-npm start
-Open in Browser:
-Visit http://localhost:3000 in your browser to view the app.
+Clone the Repository: git clone https://github.com/your-username/ice-cream-store.git
+Install Dependencies: cd ice-cream-store -> npm install
+Set Up Firebase: Create a Firebase project (Realtime Database) and obtain your configuration details.
+Run the App: npm start
+Open in Browser: Visit http://localhost:3000 in your browser to view the app.
