@@ -17,7 +17,7 @@ Order Placement: Complete your order by providing address details and placing th
 # Getting Started
 Clone the Repository: git clone https://github.com/your-username/ice-cream-store.git
 
-Install Dependencies: cd ice-cream-store -> npm install
+Install Dependencies: npm install
 
 Set Up Firebase: Create a Firebase project (Realtime Database) and obtain your configuration details.
 
